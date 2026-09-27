@@ -1,3 +1,7 @@
 package com.dmgtalkies.movies.domain;
 
-public enum SeatStatus { AVAILABLE, HELD, BOOKED }
+public enum SeatStatus {
+  AVAILABLE,
+  HELD,
+  BOOKED
+}
